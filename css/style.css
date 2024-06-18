@@ -296,18 +296,18 @@ section{
 }
 
 .listings .box-container .box .admin h3{
-   height: 4.5rem;
-   line-height: 4.4rem;
+   height: 5rem;
+   line-height: 5rem;
    width: 4.5rem;
    border-radius: 50%;
-   font-size: 2rem;
+   font-size: 3rem;
    color: var(--black);
    background-color: var(--light-bg);
    text-align:center;
 }
 
 .listings .box-container .box .admin p{
-   font-size: 1.7rem;
+   font-size: 2rem;
    color: var(--black);
    padding-bottom: .3rem;
 }
